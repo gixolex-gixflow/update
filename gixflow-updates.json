@@ -1,0 +1,26 @@
+{
+  "feedVersion": 1,
+  "project": "gixflow-core",
+  "title": "GixFlow Remote Updates",
+  "channel": "stable",
+  "generatedAt": "2026-05-06T23:00:00+02:00",
+  "latest": "11.2.0",
+  "downloadMode": "same-path-root",
+  "notes": "Alle Dateien liegen direkt im Hauptpfad des GitHub-Repositories update. Keine Ordner verwenden.",
+  "packages": [
+    {
+      "id": "gixflow-update-001-update-center",
+      "title": "Update 1 – GixFlow Update Center",
+      "version": "11.2.0",
+      "type": "patch",
+      "channel": "stable",
+      "order": 1,
+      "required": true,
+      "file": "gixflow-update-001-update-center.zip",
+      "url": "https://raw.githubusercontent.com/DEIN-GITHUB-NAME/update/main/gixflow-update-001-update-center.zip",
+      "sha256": "3775b773eb5b936135cae560082d7eab593ae03f53c60d62036ee8e5bdb4c125",
+      "requires": [],
+      "description": "Installiert das GixFlow Update Center mit Remote Feed, ZIP-Reihenfolge, AJAX-Status und manueller Paketinstallation."
+    }
+  ]
+}

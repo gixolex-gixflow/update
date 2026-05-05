@@ -1,0 +1,33 @@
+GIXFLOW GITHUB UPLOAD – OHNE ORDNER
+====================================
+
+Ziel:
+Alle Dateien liegen direkt im Hauptpfad vom GitHub-Repository "update".
+Keine Ordner erstellen.
+
+1. GitHub öffnen
+2. Repository "update" öffnen
+3. Auf "Add file" klicken
+4. "Upload files" wählen
+5. Diese 3 Dateien hochladen:
+
+   - README.md
+   - gixflow-updates.json
+   - gixflow-update-001-update-center.zip
+
+6. Unten bei Commit Message eintragen:
+
+   Initial flat GixFlow update feed
+
+7. Auf "Commit changes" klicken
+
+Danach gixflow-updates.json öffnen und DEIN-GITHUB-NAME ersetzen.
+
+Feed URL für GixFlow:
+https://raw.githubusercontent.com/DEIN-GITHUB-NAME/update/main/gixflow-updates.json
+
+ZIP URL:
+https://raw.githubusercontent.com/DEIN-GITHUB-NAME/update/main/gixflow-update-001-update-center.zip
+
+WICHTIG:
+Repo muss Public sein, sonst braucht GixFlow einen GitHub Token.
