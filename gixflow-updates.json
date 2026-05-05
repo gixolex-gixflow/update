@@ -17,7 +17,7 @@
       "order": 1,
       "required": true,
       "file": "gixflow-update-001-update-center.zip",
-      "url": "https://raw.githubusercontent.com/DEIN-GITHUB-NAME/update/main/gixflow-update-001-update-center.zip",
+      "url": "https://raw.githubusercontent.com/gixolex-gixflow/update/main/gixflow-update-001-update-center.zip",
       "sha256": "3775b773eb5b936135cae560082d7eab593ae03f53c60d62036ee8e5bdb4c125",
       "requires": [],
       "description": "Installiert das GixFlow Update Center mit Remote Feed, ZIP-Reihenfolge, AJAX-Status und manueller Paketinstallation."
